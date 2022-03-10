@@ -1,0 +1,9 @@
+numpy==1.17.3
+tensorboard
+tensorflow
+tensorflow-estimator
+h5py
+Keras-Applications
+Keras-Preprocessing
+opencv-python==4.5.2.54
+streamlit
