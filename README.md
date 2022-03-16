@@ -20,4 +20,8 @@ Prediction:
 
 ## Final Model :
 
-We have created a Streamlit Application based on Xception pretrained model and our model will identify the type of defect based on images that were captured by a camera. 
+I have created a Streamlit Application based on Xception pretrained model and our model will identify the type of defect based on images that were captured by a camera. 
+
+## Future Scope:
+
+As part of future scope I will even use the image segmentation to detect where exactly the defect was present in the image.  
